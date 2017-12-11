@@ -1,0 +1,44 @@
+body{
+  background-color:black;
+  font-family:Verdana;
+  text-align: center;
+  color:white'
+
+}
+.discover{
+  font-color:white;
+  font-size:40px;
+  align:center;
+  color:white;
+}
+.download{
+  font-family:Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+  text-align:center
+
+  }
+  .personal{
+
+  }
+  .places{
+    color:white;
+  }
+  .guide{
+    align:center;
+    color:white;
+  }
+h1{
+  font-size::50px;
+  color:white;
+}
+h2{
+    color:white;
+    font-size:42;
+  }
+h4{
+    font-color:white;
+  }
+p{
+    color:white;
+  }
