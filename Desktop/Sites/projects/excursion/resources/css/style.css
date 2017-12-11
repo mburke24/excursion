@@ -18,10 +18,7 @@ body{
   text-align:center
 
   }
-  .personal{
-
-  }
-  .places{
+.places{
     color:white;
   }
   .guide{
@@ -41,4 +38,7 @@ h4{
   }
 p{
     color:white;
+  }
+  .footer{
+    text-align:right;
   }
