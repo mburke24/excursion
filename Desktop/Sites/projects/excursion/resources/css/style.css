@@ -14,8 +14,18 @@ font-family:Verdana;
   color: Aquamarine;
   font-size: 16px;
   text-align:center
- url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/videos/excursion.mp4)
-  }
+}
+.personal{
+  font-family:Verdana;
+  color:gray;
+  font-size:21px;
+}
+.guide{
+  font-family:Verdana;
+  font-weight:300;
+  font-size:42px;
+}
+
 
 h1{
   font-size::50px;
