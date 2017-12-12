@@ -1,30 +1,22 @@
 body{
   background-color:black;
-  font-family:Verdana;
   text-align: center;
-  color:white'
-
-}
+  }
 .discover{
+font-family:Verdana;
   font-color:white;
   font-size:40px;
+  font-weight:normal;
   align:center;
   color:white;
 }
 .download{
-  font-family:Verdana;
   color: Aquamarine;
   font-size: 16px;
   text-align:center
+ url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/videos/excursion.mp4)
+  }
 
-  }
-.places{
-    color:white;
-  }
-  .guide{
-    align:center;
-    color:white;
-  }
 h1{
   font-size::50px;
   color:white;
@@ -41,4 +33,5 @@ p{
   }
   .footer{
     text-align:right;
+    color:gray;
   }
